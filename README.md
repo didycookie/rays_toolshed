@@ -13,6 +13,14 @@ This documents so  the tools in Ray's shed so those of us that are not handy can
 | <a href="https://didycookie.github.io/rays_toolshed/images/ban_saw.jpg"> <img src="https://didycookie.github.io/rays_toolshed/images/ban_saw.jpg" width="600px"> </a>| <audio controls style="width: 200px;"> <source src="audio/ban_saw.m4a" type="audio/mp4">> </audio>|This is a ban saw. |
 | <a href="https://didycookie.github.io/rays_toolshed/images/emory_grinder.jpg"> <img src="https://didycookie.github.io/rays_toolshed/images/emory_grinder.jpg" width="600px"> </a>| <audio controls style="width: 200px;"> <source src="audio/emory_grinder.m4a" type="audio/mp4">> </audio>|This is a grinder. |
 | <a href="https://didycookie.github.io/rays_toolshed/images/brine_pump.jpg"> <img src="https://didycookie.github.io/rays_toolshed/images/brine_pump.jpg" width="600px"> </a>| <audio controls style="width: 200px;"> <source src="audio/brine_pump.m4a" type="audio/mp4">> </audio>|This is a brine pump. |
+| <a href="https://didycookie.github.io/rays_toolshed/images/dontknow1.jpg"> <img src="https://didycookie.github.io/rays_toolshed/images/dontknow1.jpg" width="600px"> </a>| |??? 1|
+| <a href="https://didycookie.github.io/rays_toolshed/images/dontknow2.jpg"> <img src="https://didycookie.github.io/rays_toolshed/images/dontknow2.jpg" width="600px"> </a>| |??? 2|
+| <a href="https://didycookie.github.io/rays_toolshed/images/dontknow3.jpg"> <img src="https://didycookie.github.io/rays_toolshed/images/dontknow3.jpg" width="600px"> </a>| |??? 3|
+| <a href="https://didycookie.github.io/rays_toolshed/images/dontknow4.jpg"> <img src="https://didycookie.github.io/rays_toolshed/images/dontknow4.jpg" width="600px"> </a>| |??? 4|
+| <a href="https://didycookie.github.io/rays_toolshed/images/dontknow5.jpg"> <img src="https://didycookie.github.io/rays_toolshed/images/dontknow5.jpg" width="600px"> </a>| |??? 5|
+| <a href="https://didycookie.github.io/rays_toolshed/images/dontknow6.jpg"> <img src="https://didycookie.github.io/rays_toolshed/images/dontknow6.jpg" width="600px"> </a>| |??? 6|
+| <a href="https://didycookie.github.io/rays_toolshed/images/dontknow7.jpg"> <img src="https://didycookie.github.io/rays_toolshed/images/dontknow7.jpg" width="600px"> </a>| |??? 7|
+| <a href="https://didycookie.github.io/rays_toolshed/images/dontknow8.jpg"> <img src="https://didycookie.github.io/rays_toolshed/images/dontknow8.jpg" width="600px"> </a>| |??? 8|
 
 
 <br>
