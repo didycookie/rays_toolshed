@@ -4,4 +4,4 @@ This is an attempt to document the tools in Ray's shed so those of us that are n
 
 |      Image        |     Description |
 |-------------------|----------------:|
-| <img src="images/toolboard.jpg" width="200px">        | This is what an organised tool board looks like. |
+| <img src="https://didycookie.github.io/rays_toolshed/images/toolboard.jpg" width="200px">        | This is what an organised tool board looks like. |
