@@ -1,6 +1,6 @@
 # Ray's toolshed
 
-This documents so  the tools in Ray's shed so those of us that are not handy can remember what they are used for, and what we own that has been built with them.
+This documents the tools in Ray's shed for those of us that are not handy, so we can remember what they are used for, and what we own that has been built with them.
 
 |      Image        |     Audio |     Description |
 |-------------------|----------------:|:----------------:|
